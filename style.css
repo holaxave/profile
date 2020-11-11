@@ -2,6 +2,11 @@ body {
   align-content: center;
   display: block;
   margin: 8px;
+  background-image: url("https://www.dropbox.com/s/ss80owdozcomyfa/background.jpg?dl=0");
+  background-repeat: repeat;
+  background-size: 30%;
+  background-attachment: fixed;
+  background-position: right top;
 }
 
 h1, h2, h3, h4, p {
