@@ -1,7 +1,4 @@
 body {
-  background-image: url("/images/background.jpg");
-  background-repeat: repeat;
-  background-size: cover;
   align-content: center;
   display: block;
   margin: 8px;
