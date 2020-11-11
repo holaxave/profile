@@ -1,5 +1,6 @@
 body {
   background-color:#f7f9fc;
+  background-repeat: repeat;
   align-content: center;
   display: block;
   margin: 8px;
